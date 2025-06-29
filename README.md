@@ -2,8 +2,10 @@
 <p align="center">
   💻 Front-End Developer (in progress) | 🎨 Visuals Enthusiast | 🌍 Purpose-Driven Creator  
 </p>
+
+<!-- Updated GIF of an African lady coding -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="400" alt="African lady coding in office" />
 </p>
 
 ---
@@ -89,4 +91,3 @@ Here are a few projects I'm planning or building to sharpen my skills and solve 
 > “Great websites aren’t just seen—they’re **felt**.”  
 
 Thanks for stopping by! Feel free to explore my projects and let’s connect to create meaningful solutions.
-
