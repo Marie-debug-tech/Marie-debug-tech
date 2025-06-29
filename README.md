@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mary 👋</h1>
 <p align="center">
-  💻 Front-End Developer (in progress) | 🎨 Visuals Enthusiast | 🌍 Purpose-Driven Creator  
+  💻 Front-End Developer (in progress) | 🎨 Visuals Enthusiast | 🌍 Executive Virtual Assistant  
 </p>
 
 <!-- Updated GIF of an African lady coding -->
